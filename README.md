@@ -11,9 +11,10 @@
 
 
 ## 전체
-![Image](https://github.com/user-attachments/assets/031981d2-5996-4a8a-a0d8-6247d734dc17)
+![Image](https://github.com/user-attachments/assets/6a34775b-bb86-4047-be2f-ffc34f18fd4d)
 
 
 ## 일부 카테고리
-![Image](https://github.com/user-attachments/assets/6a34775b-bb86-4047-be2f-ffc34f18fd4d)
+![Image](https://github.com/user-attachments/assets/031981d2-5996-4a8a-a0d8-6247d734dc17)
+
 
